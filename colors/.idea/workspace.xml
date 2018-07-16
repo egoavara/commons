@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83c53dce-774f-47ea-bc5e-9a8bc63e1baa" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/colors$Expression_test_go.out" NAME="Expression_test.go Coverage Results" MODIFIED="1531515663990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Expression_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Expression_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="103" column="63" selection-start-line="103" selection-start-column="63" selection-end-line="103" selection-end-column="63" />
+              <folding>
+                <element signature="n#!!block;n#TestUnmarshal_Hexrgb#0" />
+                <element signature="n#!!block;n#TestUnmarshal_Hexrgba#0" />
+                <element signature="n#!!block;n#TestUnmarshal_Hexrrggbb#0" />
+                <element signature="n#!!block;n#TestUnmarshal_Hexrrggbbaa#0" />
+                <element signature="n#!!block;n#TestUnmarshal_rgb#0" />
+                <element signature="n#!!block;n#TestUnmarshal_rgba#0" />
+                <element signature="n#!!block;n#TestUnmarshal_hsl#0" />
+                <element signature="n#!!block;n#TestMarshal_Hexrgb#0" />
+                <element signature="n#!!block;n#TestMarshal_Hexrgba#0" />
+                <element signature="n#!!block;n#TestMarshal_Hexrrggbb#0" />
+                <element signature="n#!!block;n#TestMarshal_Hexrrggbbaa#0" />
+                <element signature="n#!!block;n#TestMarshal_rgb#0" />
+                <element signature="n#!!block;n#TestMarshal_rgba#0" />
+                <element signature="n#!!block;n#TestMarshal_hsl#0" />
+                <element signature="n#!!block;n#TestMarshal_hsla#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Color.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Color.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="182" column="1" selection-start-line="182" selection-start-column="1" selection-end-line="182" selection-end-column="1" />
+              <folding>
+                <element signature="e#84#2109#0" />
+                <element signature="e#368#500#0" />
+                <element signature="e#562#692#0" />
+                <element signature="e#590#607#0" />
+                <element signature="e#645#689#0" />
+                <element signature="e#764#897#0" />
+                <element signature="e#802#819#0" />
+                <element signature="e#960#1164#0" />
+                <element signature="e#989#1006#0" />
+                <element signature="e#1045#1161#0" />
+                <element signature="e#1227#2106#0" />
+                <element signature="e#1256#1273#0" />
+                <element signature="e#1732#1751#0" />
+                <element signature="e#1792#1832#0" />
+                <element signature="e#1838#1874#0" />
+                <element signature="e#1877#2077#0" />
+                <element signature="e#1892#1993#0" />
+                <element signature="e#1915#1951#0" />
+                <element signature="e#1957#1993#0" />
+                <element signature="e#1996#2033#0" />
+                <element signature="e#2036#2073#0" />
+                <element signature="e#2120#2148#0" />
+                <element signature="n#!!block;n#RGBA#0" />
+                <element signature="n#!!block;n#RGBA#1" />
+                <element signature="n#!!block;n#RGBA#2" />
+                <element signature="n#!!block;n#RGBA#3" />
+                <element signature="n#!!block;n#RGBA#4" />
+                <element signature="n#!!block;n#RGBA#5" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#14#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Predefine.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Predefine.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Predefine_HTML.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Predefine_HTML.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="168" selection-start-line="168" selection-end-line="168" />
+              <folding>
+                <element signature="e#66#4093#0" />
+                <element signature="n#!!block;n#Find#0" />
+                <element signature="n#!!block;n#Type#0" />
+                <element signature="n#!!block;n#ToString#0" />
+                <element signature="e#4307#4342#0" />
+                <element signature="e#4322#4339#0" />
+                <element signature="n#!!block;n#init#0" />
+                <element signature="e#4437#12433#0" />
+                <element signature="e#4467#4491#0" />
+                <element signature="e#4521#4545#0" />
+                <element signature="e#4575#4599#0" />
+                <element signature="e#4629#4653#0" />
+                <element signature="e#4683#4707#0" />
+                <element signature="e#4737#4761#0" />
+                <element signature="e#4791#4815#0" />
+                <element signature="e#4845#4869#0" />
+                <element signature="e#4899#4923#0" />
+                <element signature="e#4953#4977#0" />
+                <element signature="e#5007#5031#0" />
+                <element signature="e#5061#5085#0" />
+                <element signature="e#5115#5139#0" />
+                <element signature="e#5169#5193#0" />
+                <element signature="e#5223#5247#0" />
+                <element signature="e#5277#5301#0" />
+                <element signature="e#5331#5355#0" />
+                <element signature="e#5385#5409#0" />
+                <element signature="e#5439#5463#0" />
+                <element signature="e#5493#5517#0" />
+                <element signature="e#5547#5571#0" />
+                <element signature="e#5601#5625#0" />
+                <element signature="e#5655#5679#0" />
+                <element signature="e#5709#5733#0" />
+                <element signature="e#5763#5787#0" />
+                <element signature="e#5817#5841#0" />
+                <element signature="e#5871#5895#0" />
+                <element signature="e#5925#5949#0" />
+                <element signature="e#5979#6003#0" />
+                <element signature="e#6033#6057#0" />
+                <element signature="e#6087#6111#0" />
+                <element signature="e#6141#6165#0" />
+                <element signature="e#6195#6219#0" />
+                <element signature="e#6249#6273#0" />
+                <element signature="e#6303#6327#0" />
+                <element signature="e#6357#6381#0" />
+                <element signature="e#6411#6435#0" />
+                <element signature="e#6465#6489#0" />
+                <element signature="e#6519#6543#0" />
+                <element signature="e#6573#6597#0" />
+                <element signature="e#6627#6651#0" />
+                <element signature="e#6681#6705#0" />
+                <element signature="e#6735#6759#0" />
+                <element signature="e#6789#6813#0" />
+                <element signature="e#6843#6867#0" />
+                <element signature="e#6897#6921#0" />
+                <element signature="e#6951#6975#0" />
+                <element signature="e#7005#7029#0" />
+                <element signature="e#7059#7083#0" />
+                <element signature="e#7113#7137#0" />
+                <element signature="e#7167#7191#0" />
+                <element signature="e#7221#7245#0" />
+                <element signature="e#7275#7299#0" />
+                <element signature="e#7329#7353#0" />
+                <element signature="e#7383#7407#0" />
+                <element signature="e#7437#7461#0" />
+                <element signature="e#7491#7515#0" />
+                <element signature="e#7545#7569#0" />
+                <element signature="e#7599#7623#0" />
+                <element signature="e#7653#7677#0" />
+                <element signature="e#7707#7731#0" />
+                <element signature="e#7761#7785#0" />
+                <element signature="e#7815#7839#0" />
+                <element signature="e#7869#7893#0" />
+                <element signature="e#7923#7947#0" />
+                <element signature="e#7977#8001#0" />
+                <element signature="e#8031#8055#0" />
+                <element signature="e#8085#8109#0" />
+                <element signature="e#8139#8163#0" />
+                <element signature="e#8193#8217#0" />
+                <element signature="e#8247#8271#0" />
+                <element signature="e#8301#8325#0" />
+                <element signature="e#8355#8379#0" />
+                <element signature="e#8409#8433#0" />
+                <element signature="e#8463#8487#0" />
+                <element signature="e#8517#8541#0" />
+                <element signature="e#8571#8595#0" />
+                <element signature="e#8625#8649#0" />
+                <element signature="e#8679#8703#0" />
+                <element signature="e#8733#8757#0" />
+                <element signature="e#8787#8811#0" />
+                <element signature="e#8841#8865#0" />
+                <element signature="e#8895#8919#0" />
+                <element signature="e#8949#8973#0" />
+                <element signature="e#9003#9027#0" />
+                <element signature="e#9057#9081#0" />
+                <element signature="e#9111#9135#0" />
+                <element signature="e#9165#9189#0" />
+                <element signature="e#9219#9243#0" />
+                <element signature="e#9273#9297#0" />
+                <element signature="e#9327#9351#0" />
+                <element signature="e#9381#9405#0" />
+                <element signature="e#9435#9459#0" />
+                <element signature="e#9489#9513#0" />
+                <element signature="e#9543#9567#0" />
+                <element signature="e#9597#9621#0" />
+                <element signature="e#9651#9675#0" />
+                <element signature="e#9705#9729#0" />
+                <element signature="e#9759#9783#0" />
+                <element signature="e#9813#9837#0" />
+                <element signature="e#9867#9891#0" />
+                <element signature="e#9921#9945#0" />
+                <element signature="e#9975#9999#0" />
+                <element signature="e#10029#10053#0" />
+                <element signature="e#10083#10107#0" />
+                <element signature="e#10137#10161#0" />
+                <element signature="e#10191#10215#0" />
+                <element signature="e#10245#10269#0" />
+                <element signature="e#10299#10323#0" />
+                <element signature="e#10353#10377#0" />
+                <element signature="e#10407#10431#0" />
+                <element signature="e#10461#10485#0" />
+                <element signature="e#10515#10539#0" />
+                <element signature="e#10569#10593#0" />
+                <element signature="e#10623#10647#0" />
+                <element signature="e#10677#10701#0" />
+                <element signature="e#10731#10755#0" />
+                <element signature="e#10785#10809#0" />
+                <element signature="e#10839#10863#0" />
+                <element signature="e#10893#10917#0" />
+                <element signature="e#10947#10971#0" />
+                <element signature="e#11001#11025#0" />
+                <element signature="e#11055#11079#0" />
+                <element signature="e#11109#11133#0" />
+                <element signature="e#11163#11187#0" />
+                <element signature="e#11217#11241#0" />
+                <element signature="e#11271#11295#0" />
+                <element signature="e#11325#11349#0" />
+                <element signature="e#11379#11403#0" />
+                <element signature="e#11433#11457#0" />
+                <element signature="e#11487#11511#0" />
+                <element signature="e#11541#11565#0" />
+                <element signature="e#11595#11619#0" />
+                <element signature="e#11649#11673#0" />
+                <element signature="e#11703#11727#0" />
+                <element signature="e#11757#11781#0" />
+                <element signature="e#11811#11835#0" />
+                <element signature="e#11865#11889#0" />
+                <element signature="e#11919#11943#0" />
+                <element signature="e#11973#11997#0" />
+                <element signature="e#12027#12051#0" />
+                <element signature="e#12081#12105#0" />
+                <element signature="e#12135#12159#0" />
+                <element signature="e#12189#12213#0" />
+                <element signature="e#12243#12267#0" />
+                <element signature="e#12297#12321#0" />
+                <element signature="e#12351#12375#0" />
+                <element signature="e#12405#12429#0" />
+                <element signature="e#12460#18670#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Predefine_LaTeX.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Predefine_LaTeX.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+              <folding>
+                <element signature="e#69#1539#0" />
+                <element signature="n#!!block;n#Find#0" />
+                <element signature="n#!!block;n#Type#0" />
+                <element signature="n#!!block;n#ToString#0" />
+                <element signature="n#!!block;n#init#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#</find>
+      <find>\s&quot;</find>
+      <find>=</find>
+      <find>=.+</find>
+      <find>}</find>
+      <find>\w.+ U8</find>
+      <find>(\w.+ U8)</find>
+      <find>\s+U8</find>
+      <find>{1}</find>
+      <find>Unm</find>
+      <find>return nil</find>
+      <find>temp :=</find>
+      <find>&amp;s.</find>
+      <find>return UnmarshalFail</find>
+      <find>Tiger</find>
+      <find>Violet</find>
+      <find>U32</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>= &quot;#</replace>
+      <replace>, 0xFF }</replace>
+      <replace>:</replace>
+      <replace>U8</replace>
+      <replace>},</replace>
+      <replace>case</replace>
+      <replace>&quot;</replace>
+      <replace>M</replace>
+      <replace>UnmarshalFail</replace>
+      <replace>return UnmarshalFail</replace>
+      <replace>temp, _ :=</replace>
+      <replace>return UnmarshalFail, ExpressionUnknown</replace>
+      <replace>&amp;s.HTML.</replace>
+      <replace>*U32</replace>
+      <replace>&amp;U32</replace>
+    </replaceStrings>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../../.." />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Color.go" />
+        <option value="$PROJECT_DIR$/pytool.py" />
+        <option value="$PROJECT_DIR$/htmlColor.go" />
+        <option value="$PROJECT_DIR$/html.go" />
+        <option value="$PROJECT_DIR$/LaTeX.go" />
+        <option value="$PROJECT_DIR$/SVG.go" />
+        <option value="$PROJECT_DIR$/X11.go" />
+        <option value="$PROJECT_DIR$/Expression.go" />
+        <option value="$PROJECT_DIR$/Predefine_SVG.go" />
+        <option value="$PROJECT_DIR$/example/test.go" />
+        <option value="$PROJECT_DIR$/htmlcolor.py" />
+        <option value="$PROJECT_DIR$/latexcolor.py" />
+        <option value="$PROJECT_DIR$/Expression_test.go" />
+        <option value="$PROJECT_DIR$/Predefine.go" />
+        <option value="$PROJECT_DIR$/Predefine_HTML.go" />
+        <option value="$PROJECT_DIR$/Predefine_LaTeX.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="colors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="colors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="colors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="colors" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="E:/Git/golang/src/github.com/GUMI-golang/gumi" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build test.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="colors" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="colors" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/example/test.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="Expression_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="colors" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/Expression_test.go" />
+    </configuration>
+    <configuration name="TestMarshal_Unknown in github.com/iamGreedy/colors" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="colors" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/iamGreedy/colors" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMarshal_Unknown$" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="colors" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="htmlcolor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="colors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/htmlcolor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="latexcolor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="colors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/latexcolor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.Expression_test.go" />
+      <item itemvalue="Go Test.TestMarshal_Unknown in github.com/iamGreedy/colors" />
+      <item itemvalue="Python.latexcolor" />
+      <item itemvalue="Go Build.go build test.go" />
+      <item itemvalue="Python.htmlcolor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Python.latexcolor" />
+        <item itemvalue="Python.htmlcolor" />
+        <item itemvalue="Go Test.Expression_test.go" />
+        <item itemvalue="Go Test.TestMarshal_Unknown in github.com/iamGreedy/colors" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Expression_test_go - 2018.07.14 at 06h 21m 57s.xml">
+      <configuration name="Expression_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMarshal_Unknown_in_github_com_iamGreedy_colors - 2018.07.14 at 06h 39m 12s.xml">
+      <configuration name="TestMarshal_Unknown in github.com/iamGreedy/colors" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Expression_test_go - 2018.07.14 at 06h 39m 19s.xml">
+      <configuration name="Expression_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Expression_test_go - 2018.07.14 at 06h 40m 10s.xml">
+      <configuration name="Expression_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Expression_test_go - 2018.07.14 at 06h 40m 48s.xml">
+      <configuration name="Expression_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Expression_test_go - 2018.07.14 at 06h 44m 22s.xml">
+      <configuration name="Expression_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Expression_test_go - 2018.07.14 at 06h 52m 05s.xml">
+      <configuration name="Expression_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Expression_test_go - 2018.07.14 at 06h 52m 42s.xml">
+      <configuration name="Expression_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Expression_test_go - 2018.07.14 at 06h 53m 41s.xml">
+      <configuration name="Expression_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Expression_test_go - 2018.07.14 at 06h 54m 08s.xml">
+      <configuration name="Expression_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Statistic" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Go/src/image/color/color.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="181" column="1" lean-forward="true" selection-start-line="175" selection-end-line="181" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Git/golang/src/github.com/GUMI-golang/gumi/gcore/color.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/math/dim.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="501" selection-start-line="501" selection-end-line="501" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="741" selection-start-line="741" selection-end-line="741" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../geg/canvas/Software.go" />
+    <entry file="file://C:/Go/src/math/const.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/strings/strings.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="610" column="5" selection-start-line="610" selection-start-column="5" selection-end-line="610" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt" />
+    <entry file="file://$PROJECT_DIR$/pytool.py" />
+    <entry file="file://$PROJECT_DIR$/Predefine_X11.go" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1538">
+          <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predefine_SVG.go" />
+    <entry file="file://$PROJECT_DIR$/Expression.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="40" column="77" selection-start-line="40" selection-start-column="77" selection-end-line="40" selection-end-column="77" />
+          <folding>
+            <element signature="e#123#1051#0" />
+            <element signature="e#1134#1422#0" />
+            <element signature="n#!!block;n#Marshal#0" />
+            <element signature="e#1516#1541#0" />
+            <element signature="e#1564#1586#0" />
+            <element signature="e#1588#2136#0" />
+            <element signature="e#1713#1904#0" />
+            <element signature="e#1788#1852#0" />
+            <element signature="e#1910#2136#0" />
+            <element signature="e#2003#2077#0" />
+            <element signature="e#2138#2437#0" />
+            <element signature="e#2255#2310#0" />
+            <element signature="e#2316#2437#0" />
+            <element signature="e#2439#2855#0" />
+            <element signature="e#2531#2662#0" />
+            <element signature="e#2668#2855#0" />
+            <element signature="e#2857#2951#0" />
+            <element signature="e#2889#2950#0" />
+            <element signature="n#!!block;n#Unmarshal#0" />
+            <element signature="e#3040#3455#0" />
+            <element signature="e#3103#3151#0" />
+            <element signature="e#3213#3261#0" />
+            <element signature="e#3323#3371#0" />
+            <element signature="e#3384#3437#0" />
+            <element signature="e#3519#4048#0" />
+            <element signature="e#3582#3630#0" />
+            <element signature="e#3692#3740#0" />
+            <element signature="e#3802#3850#0" />
+            <element signature="e#3912#3960#0" />
+            <element signature="e#3973#4030#0" />
+            <element signature="e#4108#4665#0" />
+            <element signature="e#4171#4219#0" />
+            <element signature="e#4281#4329#0" />
+            <element signature="e#4391#4439#0" />
+            <element signature="e#4501#4549#0" />
+            <element signature="e#4562#4647#0" />
+            <element signature="e#4724#5160#0" />
+            <element signature="e#4787#4835#0" />
+            <element signature="e#4897#4945#0" />
+            <element signature="e#5007#5055#0" />
+            <element signature="e#5068#5142#0" />
+            <element signature="e#5258#5674#0" />
+            <element signature="e#5321#5369#0" />
+            <element signature="e#5431#5479#0" />
+            <element signature="e#5541#5589#0" />
+            <element signature="e#5602#5655#0" />
+            <element signature="e#5746#6311#0" />
+            <element signature="e#5809#5857#0" />
+            <element signature="e#5919#5967#0" />
+            <element signature="e#6029#6077#0" />
+            <element signature="e#6155#6203#0" />
+            <element signature="e#6216#6292#0" />
+            <element signature="e#6382#6906#0" />
+            <element signature="e#6457#6505#0" />
+            <element signature="e#6604#6652#0" />
+            <element signature="e#6751#6799#0" />
+            <element signature="e#6813#6887#0" />
+            <element signature="e#6978#7637#0" />
+            <element signature="e#7053#7101#0" />
+            <element signature="e#7200#7248#0" />
+            <element signature="e#7347#7395#0" />
+            <element signature="e#7473#7521#0" />
+            <element signature="e#7535#7618#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlcolor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="159" column="39" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latexcolor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="259" column="57" selection-start-line="259" selection-start-column="57" selection-end-line="259" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latex.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="30" lean-forward="true" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="147" column="33" lean-forward="true" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expression_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="103" column="63" selection-start-line="103" selection-start-column="63" selection-end-line="103" selection-end-column="63" />
+          <folding>
+            <element signature="n#!!block;n#TestUnmarshal_Hexrgb#0" />
+            <element signature="n#!!block;n#TestUnmarshal_Hexrgba#0" />
+            <element signature="n#!!block;n#TestUnmarshal_Hexrrggbb#0" />
+            <element signature="n#!!block;n#TestUnmarshal_Hexrrggbbaa#0" />
+            <element signature="n#!!block;n#TestUnmarshal_rgb#0" />
+            <element signature="n#!!block;n#TestUnmarshal_rgba#0" />
+            <element signature="n#!!block;n#TestUnmarshal_hsl#0" />
+            <element signature="n#!!block;n#TestMarshal_Hexrgb#0" />
+            <element signature="n#!!block;n#TestMarshal_Hexrgba#0" />
+            <element signature="n#!!block;n#TestMarshal_Hexrrggbb#0" />
+            <element signature="n#!!block;n#TestMarshal_Hexrrggbbaa#0" />
+            <element signature="n#!!block;n#TestMarshal_rgb#0" />
+            <element signature="n#!!block;n#TestMarshal_rgba#0" />
+            <element signature="n#!!block;n#TestMarshal_hsl#0" />
+            <element signature="n#!!block;n#TestMarshal_hsla#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Color.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="182" column="1" selection-start-line="182" selection-start-column="1" selection-end-line="182" selection-end-column="1" />
+          <folding>
+            <element signature="e#84#2109#0" />
+            <element signature="e#368#500#0" />
+            <element signature="e#562#692#0" />
+            <element signature="e#590#607#0" />
+            <element signature="e#645#689#0" />
+            <element signature="e#764#897#0" />
+            <element signature="e#802#819#0" />
+            <element signature="e#960#1164#0" />
+            <element signature="e#989#1006#0" />
+            <element signature="e#1045#1161#0" />
+            <element signature="e#1227#2106#0" />
+            <element signature="e#1256#1273#0" />
+            <element signature="e#1732#1751#0" />
+            <element signature="e#1792#1832#0" />
+            <element signature="e#1838#1874#0" />
+            <element signature="e#1877#2077#0" />
+            <element signature="e#1892#1993#0" />
+            <element signature="e#1915#1951#0" />
+            <element signature="e#1957#1993#0" />
+            <element signature="e#1996#2033#0" />
+            <element signature="e#2036#2073#0" />
+            <element signature="e#2120#2148#0" />
+            <element signature="n#!!block;n#RGBA#0" />
+            <element signature="n#!!block;n#RGBA#1" />
+            <element signature="n#!!block;n#RGBA#2" />
+            <element signature="n#!!block;n#RGBA#3" />
+            <element signature="n#!!block;n#RGBA#4" />
+            <element signature="n#!!block;n#RGBA#5" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predefine_HTML.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="e#66#4093#0" />
+            <element signature="n#!!block;n#Find#0" />
+            <element signature="n#!!block;n#Type#0" />
+            <element signature="n#!!block;n#ToString#0" />
+            <element signature="e#4307#4342#0" />
+            <element signature="e#4322#4339#0" />
+            <element signature="n#!!block;n#init#0" />
+            <element signature="e#4437#12433#0" />
+            <element signature="e#4467#4491#0" />
+            <element signature="e#4521#4545#0" />
+            <element signature="e#4575#4599#0" />
+            <element signature="e#4629#4653#0" />
+            <element signature="e#4683#4707#0" />
+            <element signature="e#4737#4761#0" />
+            <element signature="e#4791#4815#0" />
+            <element signature="e#4845#4869#0" />
+            <element signature="e#4899#4923#0" />
+            <element signature="e#4953#4977#0" />
+            <element signature="e#5007#5031#0" />
+            <element signature="e#5061#5085#0" />
+            <element signature="e#5115#5139#0" />
+            <element signature="e#5169#5193#0" />
+            <element signature="e#5223#5247#0" />
+            <element signature="e#5277#5301#0" />
+            <element signature="e#5331#5355#0" />
+            <element signature="e#5385#5409#0" />
+            <element signature="e#5439#5463#0" />
+            <element signature="e#5493#5517#0" />
+            <element signature="e#5547#5571#0" />
+            <element signature="e#5601#5625#0" />
+            <element signature="e#5655#5679#0" />
+            <element signature="e#5709#5733#0" />
+            <element signature="e#5763#5787#0" />
+            <element signature="e#5817#5841#0" />
+            <element signature="e#5871#5895#0" />
+            <element signature="e#5925#5949#0" />
+            <element signature="e#5979#6003#0" />
+            <element signature="e#6033#6057#0" />
+            <element signature="e#6087#6111#0" />
+            <element signature="e#6141#6165#0" />
+            <element signature="e#6195#6219#0" />
+            <element signature="e#6249#6273#0" />
+            <element signature="e#6303#6327#0" />
+            <element signature="e#6357#6381#0" />
+            <element signature="e#6411#6435#0" />
+            <element signature="e#6465#6489#0" />
+            <element signature="e#6519#6543#0" />
+            <element signature="e#6573#6597#0" />
+            <element signature="e#6627#6651#0" />
+            <element signature="e#6681#6705#0" />
+            <element signature="e#6735#6759#0" />
+            <element signature="e#6789#6813#0" />
+            <element signature="e#6843#6867#0" />
+            <element signature="e#6897#6921#0" />
+            <element signature="e#6951#6975#0" />
+            <element signature="e#7005#7029#0" />
+            <element signature="e#7059#7083#0" />
+            <element signature="e#7113#7137#0" />
+            <element signature="e#7167#7191#0" />
+            <element signature="e#7221#7245#0" />
+            <element signature="e#7275#7299#0" />
+            <element signature="e#7329#7353#0" />
+            <element signature="e#7383#7407#0" />
+            <element signature="e#7437#7461#0" />
+            <element signature="e#7491#7515#0" />
+            <element signature="e#7545#7569#0" />
+            <element signature="e#7599#7623#0" />
+            <element signature="e#7653#7677#0" />
+            <element signature="e#7707#7731#0" />
+            <element signature="e#7761#7785#0" />
+            <element signature="e#7815#7839#0" />
+            <element signature="e#7869#7893#0" />
+            <element signature="e#7923#7947#0" />
+            <element signature="e#7977#8001#0" />
+            <element signature="e#8031#8055#0" />
+            <element signature="e#8085#8109#0" />
+            <element signature="e#8139#8163#0" />
+            <element signature="e#8193#8217#0" />
+            <element signature="e#8247#8271#0" />
+            <element signature="e#8301#8325#0" />
+            <element signature="e#8355#8379#0" />
+            <element signature="e#8409#8433#0" />
+            <element signature="e#8463#8487#0" />
+            <element signature="e#8517#8541#0" />
+            <element signature="e#8571#8595#0" />
+            <element signature="e#8625#8649#0" />
+            <element signature="e#8679#8703#0" />
+            <element signature="e#8733#8757#0" />
+            <element signature="e#8787#8811#0" />
+            <element signature="e#8841#8865#0" />
+            <element signature="e#8895#8919#0" />
+            <element signature="e#8949#8973#0" />
+            <element signature="e#9003#9027#0" />
+            <element signature="e#9057#9081#0" />
+            <element signature="e#9111#9135#0" />
+            <element signature="e#9165#9189#0" />
+            <element signature="e#9219#9243#0" />
+            <element signature="e#9273#9297#0" />
+            <element signature="e#9327#9351#0" />
+            <element signature="e#9381#9405#0" />
+            <element signature="e#9435#9459#0" />
+            <element signature="e#9489#9513#0" />
+            <element signature="e#9543#9567#0" />
+            <element signature="e#9597#9621#0" />
+            <element signature="e#9651#9675#0" />
+            <element signature="e#9705#9729#0" />
+            <element signature="e#9759#9783#0" />
+            <element signature="e#9813#9837#0" />
+            <element signature="e#9867#9891#0" />
+            <element signature="e#9921#9945#0" />
+            <element signature="e#9975#9999#0" />
+            <element signature="e#10029#10053#0" />
+            <element signature="e#10083#10107#0" />
+            <element signature="e#10137#10161#0" />
+            <element signature="e#10191#10215#0" />
+            <element signature="e#10245#10269#0" />
+            <element signature="e#10299#10323#0" />
+            <element signature="e#10353#10377#0" />
+            <element signature="e#10407#10431#0" />
+            <element signature="e#10461#10485#0" />
+            <element signature="e#10515#10539#0" />
+            <element signature="e#10569#10593#0" />
+            <element signature="e#10623#10647#0" />
+            <element signature="e#10677#10701#0" />
+            <element signature="e#10731#10755#0" />
+            <element signature="e#10785#10809#0" />
+            <element signature="e#10839#10863#0" />
+            <element signature="e#10893#10917#0" />
+            <element signature="e#10947#10971#0" />
+            <element signature="e#11001#11025#0" />
+            <element signature="e#11055#11079#0" />
+            <element signature="e#11109#11133#0" />
+            <element signature="e#11163#11187#0" />
+            <element signature="e#11217#11241#0" />
+            <element signature="e#11271#11295#0" />
+            <element signature="e#11325#11349#0" />
+            <element signature="e#11379#11403#0" />
+            <element signature="e#11433#11457#0" />
+            <element signature="e#11487#11511#0" />
+            <element signature="e#11541#11565#0" />
+            <element signature="e#11595#11619#0" />
+            <element signature="e#11649#11673#0" />
+            <element signature="e#11703#11727#0" />
+            <element signature="e#11757#11781#0" />
+            <element signature="e#11811#11835#0" />
+            <element signature="e#11865#11889#0" />
+            <element signature="e#11919#11943#0" />
+            <element signature="e#11973#11997#0" />
+            <element signature="e#12027#12051#0" />
+            <element signature="e#12081#12105#0" />
+            <element signature="e#12135#12159#0" />
+            <element signature="e#12189#12213#0" />
+            <element signature="e#12243#12267#0" />
+            <element signature="e#12297#12321#0" />
+            <element signature="e#12351#12375#0" />
+            <element signature="e#12405#12429#0" />
+            <element signature="e#12460#18670#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predefine_LaTeX.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+          <folding>
+            <element signature="e#69#1539#0" />
+            <element signature="n#!!block;n#Find#0" />
+            <element signature="n#!!block;n#Type#0" />
+            <element signature="n#!!block;n#ToString#0" />
+            <element signature="n#!!block;n#init#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#14#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predefine.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
