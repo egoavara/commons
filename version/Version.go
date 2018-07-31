@@ -1,6 +1,8 @@
 package version
 
-import "fmt"
+import (
+	"strconv"
+)
 
 var Invalid = Version{
 	-1,-1, -1,
@@ -12,10 +14,15 @@ type Version struct {
 	Patch int
 }
 
+
 func (s Version) String() string {
 	if s == Invalid{
 		return "Invalid"
 	}
-	return fmt.Sprintf("%d.%d.%d", s.Major, s.Minor, s.Patch)
+	res := strconv.FormatInt(int64(s.Major), 10) + "." + strconv.FormatInt(int64(s.Minor), 10)
+	if s.Patch != 0{
+		res += "." + strconv.FormatInt(int64(s.Patch), 10)
+	}
+	return res
 }
 

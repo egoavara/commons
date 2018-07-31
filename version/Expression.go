@@ -16,20 +16,30 @@ func Marshal(a Version) string {
 
 func Unmarshal(v string) (Version) {
 	res := re_exp.FindStringSubmatch(v)
-	if len(res) == 0{
+	var err error
+	var mj, mn, pc int64
+	switch len(res) {
+	case 0:
+		fallthrough
+	case 1:
 		return Invalid
-	}
-	mj, err := strconv.ParseInt(res[1], 10, 32)
-	if err != nil {
-		return Invalid
-	}
-	mn, err := strconv.ParseInt(res[2], 10, 32)
-	if err != nil {
-		return Invalid
-	}
-	pc, err := strconv.ParseInt(res[3], 10, 32)
-	if err != nil {
-		return Invalid
+	case 4:
+		pc, err = strconv.ParseInt(res[3], 10, 32)
+		if err != nil {
+			return Invalid
+		}
+		fallthrough
+	case 3:
+		mn, err = strconv.ParseInt(res[2], 10, 32)
+		if err != nil {
+			return Invalid
+		}
+		fallthrough
+	case 2:
+		mj, err = strconv.ParseInt(res[1], 10, 32)
+		if err != nil {
+			return Invalid
+		}
 	}
 	return Version{
 		Major:int(mj),
